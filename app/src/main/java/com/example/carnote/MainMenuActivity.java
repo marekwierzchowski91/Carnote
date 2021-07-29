@@ -29,6 +29,7 @@ public class MainMenuActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainMenuActivity.this, GasTankUpActivity.class);
                 intent.putExtra("SPECIAL_DATA", "Dodatkowe Dane");
                 startActivity(intent);
+                System.out.println("Yes I did it");
             }
         });
 
