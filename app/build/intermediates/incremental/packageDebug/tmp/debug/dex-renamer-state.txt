@@ -1,4 +1,4 @@
-#Thu Jul 29 13:38:49 CEST 2021
+#Mon Aug 02 10:11:06 CEST 2021
 base.0=C\:\\Users\\marek.wierzchowski\\AndroidStudioProjects\\CarNote\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

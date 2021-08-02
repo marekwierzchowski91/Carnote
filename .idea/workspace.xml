@@ -12,13 +12,29 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c177f90-0d18-4822-a263-5628287a5638" name="Default Changelist" comment="Carnote application test" />
+    <list default="true" id="3c177f90-0d18-4822-a263-5628287a5638" name="Default Changelist" comment="Carnote application test">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Car_Note.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Car_Note.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/carnote/MainMenuActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/carnote/MainMenuActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/carnote/MainMenuActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/com/example/carnote/MainMenuActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/carnote/MainMenuActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/carnote/MainMenuActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/carnote/MainMenuActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/com/example/carnote/MainMenuActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\marek.wierzchowski\.android\avd\4_WVGA_Nexus_S_API_30.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\marek.wierzchowski\.android\avd\4_WVGA_Nexus_S_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -44,7 +60,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@C:\Users\marek.wierzchowski\.android\avd\4_WVGA_Nexus_S_API_30.avd" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-07-29T11:36:23.662843500Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-08-02T08:10:49.368956700Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -139,58 +155,30 @@
       <option name="project" value="LOCAL" />
       <updated>1627562525530</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Carnote application test">
+      <created>1627562585230</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627562585230</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Carnote application" />
     <MESSAGE value="Carnote application test" />
     <option name="LAST_COMMIT_MESSAGE" value="Carnote application test" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1627554961425">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627554961425" />
-    <state x="349" y="167" key="AndroidCreateResourceFileDialog" timestamp="1627555100767">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627555100767" />
-    <state x="614" y="202" key="AndroidCreateXmlResourceDialog" timestamp="1627555261922">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="614" y="202" key="AndroidCreateXmlResourceDialog/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627555261922" />
-    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1627552249631">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627552249631" />
-    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1627552249631">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627552249631" />
-    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1627552249631">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627552249631" />
-    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1627552249631">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627552249631" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1627562168442">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627562168442" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1627562528577">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627562528577" />
-    <state x="499" y="173" key="extract.method.dialog" timestamp="1627550883073">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="173" key="extract.method.dialog/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627550883073" />
-    <state x="469" y="160" key="refactoring.ChangeSignatureDialog" timestamp="1627551095417">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="469" y="160" key="refactoring.ChangeSignatureDialog/0.0.1536.824/2400.0.1920.1040@0.0.1536.824" timestamp="1627551095417" />
   </component>
 </project>
